@@ -11,7 +11,7 @@ Version: 	1.0
 Author: 	ThemeSINE
 Website: 	https://www.themesine.com/
 
-
+   
 Changelog:
 -----------------------
 Version 1.0 13-06-2018
